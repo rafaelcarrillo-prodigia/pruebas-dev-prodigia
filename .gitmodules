@@ -1,0 +1,3 @@
+[submodule "odoo-prodigia-facturacion"]
+	path = odoo-prodigia-facturacion
+	url = git@github.com:mailynC/odoo-prodigia-facturacion.git
